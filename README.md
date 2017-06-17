@@ -19,4 +19,4 @@ The references used are:
 - System.Windows.Forms.dll
 
 ## Screenshot
-![Screeshot](http://i66.tinypic.com/2zyidc4.jpg)
+![Screenshot](http://i66.tinypic.com/2zyidc4.jpg)
